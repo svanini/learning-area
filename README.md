@@ -16,8 +16,9 @@
   - and another bullet point
 
 This word in in **bold**
+
 This word is in *italic*
----
+
 # header 1
 ## header 2
 ### header 3
