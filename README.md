@@ -1,18 +1,16 @@
-# MY NEW DOCUMENT
+- this is a bullet point
+- this is another bullet point
 
-## Introduction
-So this is just a long list of text with many, many, many, *too* many repeating! words. It doesn't say much else at all.
+1. this is a numbered list
+2. this is another entry in the numbered list
 
-### Tasks
+- [x] this is a completed task item
+- [ ] this is something to do still
 
-There are a list of things that I _must_ do:
-
-- first thing
-- second thing
-- third thing
-
-And these are 3 ideas:
-
-1. watch this **film**
-2. listen to this **playlist**
-3. download something
+- this is a bullet point with sub-points
+  1. this numbered list ...
+  2. is inside the previous bullet point
+- this bullet point doesn't have any sub-points
+- this bullet point does
+  - this time, a bullet point
+  - and another bullet point
