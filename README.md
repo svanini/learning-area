@@ -1,7 +1,7 @@
 # MY NEW DOCUMENT
 
 ## Introduction
-So this is just a long list of text with many, many, many, ___too___ many repeating! words. It doesn't say much else at all.
+So this is just a long list of text with many, many, many, _too_ many repeating! words. It doesn't say much else at all.
 
 ### Tasks
 
