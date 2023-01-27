@@ -1,9 +1,20 @@
-# learning-area
-GitHub repo for the [MDN Learning Area](https://developer.mozilla.org/en-US/Learn).
+# MY NEW DOCUMENT
 
-Most of the code examples shown and discussed in the Learning Area can be found here; the directories in the repo match the module structure of the articles.
 
-The one exception is the [Server-side website programming](https://developer.mozilla.org/en-US/docs/Learn/Server-side) examples — we broke these out into separate repos to make them easier to deal with:
+## Introduction
+So this is just a long list of text with many, many, many, __too__ many repeating! words. It doesn't say much else at all.
 
-* https://github.com/mdn/express-locallibrary-tutorial
-* https://github.com/mdn/django-locallibrary-tutorial
+
+### Tasks
+
+There are a list of things that I _must_ do:
+
+- first thing
+- second thing
+- third thing
+
+And these are 3 ideas:
+
+1. watch this **film**
+2. listen to this **playlist**
+3. download something
