@@ -15,8 +15,7 @@
   - this time, a bullet point
   - and another bullet point
 
-This word in in **bold**
-
+This word in in **bold** 
 This word is in *italic*
 
 # header 1
