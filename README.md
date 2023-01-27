@@ -14,3 +14,13 @@
 - this bullet point does
   - this time, a bullet point
   - and another bullet point
+
+This word in in **bold**
+This word is in *italic*
+This word is ::highlighted::
+
+# header 1
+## header 2
+### header 3
+#### header 4
+##### header 5
