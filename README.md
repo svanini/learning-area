@@ -1,9 +1,7 @@
 # MY NEW DOCUMENT
 
-
 ## Introduction
 So this is just a long list of text with many, many, many, __too__ many repeating! words. It doesn't say much else at all.
-
 
 ### Tasks
 
