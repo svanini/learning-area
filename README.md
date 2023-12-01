@@ -1,4 +1,4 @@
-- this is the first bullet point
+- this is a bullet point
 - this is another bullet point
 
 1. this is a numbered list
